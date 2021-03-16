@@ -1,7 +1,5 @@
-<p align="center">
+!](https://media.giphy.com/media/3o72F7RrTPW6jymXew/giphy.gif)
 
-![](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-</p>
 <!--
 **aquilesics/aquilesics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
