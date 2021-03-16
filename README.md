@@ -1,16 +1,16 @@
-![](https://media.giphy.com/media/3o72F7RrTPW6jymXew/giphy.gif)
+<p align="center">
+<img align='center' src=https://media.giphy.com/media/Y3xF7h9cvxmPC/giphy.gif width="300">
+</p>
 
-<!--
-**aquilesics/aquilesics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hi, I'm Aquiles Roberto! <img src=https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif align=center width="40"></h2>
+<p><em>Computer Science at Universidade Paulista<a href="hhttps://www.unip.br/>São Paulo State University</a><br/>
 
-Here are some ideas to get you started:
+### <img src="https://media.giphy.com/media/6nWT5GyxsmAoM/giphy.gif" width="50">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>A little more about me...</h3>
+
+- 🔭 I’m currently working on Python Projects
+- 🌱 I’m currently learning Fluent Python by Luciano Ramalho, OOP and Functional programming 
+- 👯 I’m looking to collaborate on Python community
+- 📫 How to reach me: aquiles.cout@gmail.com
+- ⚡ Fun fact: I Love Blade Runner! and Drawing <3
