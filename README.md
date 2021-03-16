@@ -16,4 +16,4 @@
 - 🌱 I’m currently learning Fluent Python by Luciano Ramalho, OOP and Functional programming 
 - 👯 I’m looking to collaborate on Python community
 - 📫 How to reach me: aquiles.cout@gmail.com
-- ⚡ Fun fact: I Love Blade Runner <3 <img src=https://media.giphy.com/media/ZAVGRALtiYg5G/giphy.gif width="50"><3
+- ⚡ Fun fact: I Love Blade Runner ❤️ <img src=https://media.giphy.com/media/ZAVGRALtiYg5G/giphy.gif width="50">
