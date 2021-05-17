@@ -5,7 +5,7 @@
 <img src=https://media.giphy.com/media/ddZXIrimeaXY0xclfC/giphy.gif width="200">
 </p>
 
-<h2> Hi, I'm Aquiles Roberto! <img src=https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif align=center width="40"> <img src=https://www.rust-lang.org/static/images/rust-logo-blk.svg></h2>
+<h2> Hi, I'm Aquiles Roberto! <img src=https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif align=center width="40"> <img src=https://www.rust-lang.org/static/images/rust-logo-blk.svg align=center width="40 ></h2>
 <p><em>Computer Science at Universidade Paulista<a href="hhttps://www.unip.br/>São Paulo State University</a><br/>
 
 ### <img src="https://media.giphy.com/media/6nWT5GyxsmAoM/giphy.gif" width="50">
