@@ -12,8 +12,8 @@
 
 <h3>A little more about me...</h3>
 
-- 🔭 I’m currently working on Python Projects
+- 🔭 I’m currently working on Python Projects and learning Rust (Rust looks great!!),
 - 🌱 I’m currently learning Fluent Python by Luciano Ramalho, OOP and Functional programming 
-- 👯 I’m looking to collaborate on Python community
+- 👯 I’m looking to collaborate on Python community 
 - 📫 How to reach me: aquiles.cout@gmail.com
 - ⚡ Fun fact: I Love Blade Runner ❤️ <img src=https://media.giphy.com/media/ZAVGRALtiYg5G/giphy.gif width="50">
