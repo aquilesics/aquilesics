@@ -8,7 +8,6 @@
 <h2> Hi, I'm Aquiles Roberto! <img src=https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif align=center width="40"> <img src=https://vsoch.github.io/assets/images/posts/learning-go/gophercises_jumping.gif align=center width="50" ></h2>
 <p><em>Computer Science at Universidade Paulista<a href="hhttps://www.unip.br/>São Paulo State University</a><br/>
 
-### <img src="https://media.giphy.com/media/6nWT5GyxsmAoM/giphy.gif" width="50">
 
 <h3>A little more about me...</h3>
 
